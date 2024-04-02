@@ -1,14 +1,21 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-body{
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
   background-color: black;
 }
-#navIcon{
+
+#navIcon {
   height: 5vh;
 }
-i{
+
+i {
   font-size: 30px;
 }
